@@ -1,4 +1,4 @@
-...  <h1>  HI </h1>
+ <h1>  HI </h1>
 Sosa
 My name is cinthya and Im Ecuadorian
 My Goals are to be a data engineer
